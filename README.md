@@ -3,7 +3,7 @@
   
 <h1 align="left">About the DataSet</h1>
 <p align="left"> This dataset contains about 271,116 rows 
-  and 12 columns detailing countries which won medals alongside the names, age groups of competitors and the events they particiated in. The dataset contains data from the Summer Olympics from the years 1922 till 2016. The Exploratory Data analysis was conducted using Microsoft SQL Server.</p>
+  and 12 columns detailing countries which won medals alongside the names, age groups of competitors and the events they particiated in. The dataset contains data from the Summer Olympics from the years 1922 till 2016.
   
  
  <h1>Business Problem</h1>
